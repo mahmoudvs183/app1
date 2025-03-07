@@ -1,0 +1,9 @@
+.post{
+    border:3px solid #017575;
+    margin-bottom: 10px;
+    text-align: center;
+    padding: 20px 0;
+}
+.post hr{
+    margin: 15px 0;
+}
